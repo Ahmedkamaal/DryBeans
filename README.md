@@ -1,10 +1,6 @@
 # Dry Beans Classification
 ![beans](https://github.com/Yasmine-Khaled/Dry-Beans/assets/89998528/6a936b99-46a9-4ec2-9f5b-deff7c81391d)
 
-## View the Results
-The results of the project, including visualizations and analysis, can be found in the Kaggle Notebook:
-https://www.kaggle.com/code/yasmine5aled/dry-beans
-
 ## Project Description:
 
 The "Dry Beans Classification" project aims to predict and classify three distinct categories of dry beans: Bombay, Cali, and Sira. This classification is based on measurements of five significant features: Area, Perimeter, MajorAxisLength, MinorAxisLength, and Roundness, each measured in millimeters. The dataset contains a total of 150 samples, with 50 samples from each of the three dry bean varieties.
